@@ -1,0 +1,46 @@
+body{
+    background-size: cover;
+ }
+ 
+ h5{
+     text-decoration: underline;
+ }
+ 
+ #heading{
+     font-size: 23px;
+     width: 100%;
+     color: rgb(255, 255, 255);
+     font-weight: 700;
+ }
+ 
+ #start_button{
+     background-color: rgba(57, 55, 55, 0.151);
+     width: 15%;
+     border-radius: 10px;
+     color: rgb(255, 255, 255);
+     font-weight: 900
+ }
+ 
+ canvas{
+     background-color: rgb(255, 255, 255) ; 
+     border: 2px solid rgb(255, 251, 251);
+     border-radius: 20px;
+     margin-top: 30px;
+ }
+ 
+ #status{
+     font-size: 18px;
+     font-weight: bold;
+     color: white;
+ }
+
+ p{
+     color: rgb(35, 34, 34);
+     font-size:small;
+ }
+
+ .object_name{
+    font-size: 15px;
+    font-weight: bold;
+ }
+ 
